@@ -1,0 +1,152 @@
+{
+  "user": {
+    "name": "Example"
+  },
+  "tasks": [
+    {
+      "title": "Buy groceries",
+      "description": "Purchase vegetables, fruits, milk, and bread from the supermarket.",
+      "completed": false
+    },
+    {
+      "title": "Complete project report",
+      "description": "Finish the draft for the quarterly project report and submit it by Friday.",
+      "completed": false
+    },
+    {
+      "title": "Schedule doctor’s appointment",
+      "description": "Call the clinic to schedule an annual check-up.",
+      "completed": false
+    },
+    {
+      "title": "Read a book",
+      "description": "Finish reading \"Atomic Habits\" by James Clear.",
+      "completed": false
+    },
+    {
+      "title": "Pay utility bills",
+      "description": "Pay the electricity, water, and internet bills online.",
+      "completed": false
+    },
+    {
+      "title": "Plan weekend trip",
+      "description": "Research and plan the itinerary for the weekend trip to the mountains.",
+      "completed": false
+    },
+    {
+      "title": "Exercise",
+      "description": "Do a 30-minute workout session, including running and strength training.",
+      "completed": false
+    },
+    {
+      "title": "Call parents",
+      "description": "Catch up with parents over the phone and discuss weekend plans.",
+      "completed": false
+    },
+    {
+      "title": "Clean the house",
+      "description": "Vacuum the living room, dust the shelves, and mop the kitchen floor.",
+      "completed": false
+    },
+    {
+      "title": "Update LinkedIn profile",
+      "description": "Add recent work experience and update the skills section on LinkedIn.",
+      "completed": false
+    },
+    {
+      "title": "Prepare for meeting",
+      "description": "Review meeting agenda and prepare notes for discussion points.",
+      "completed": false
+    },
+    {
+      "title": "Water the plants",
+      "description": "Water indoor plants and check for any signs of pests.",
+      "completed": false
+    },
+    {
+      "title": "Send thank-you notes",
+      "description": "Write and send thank-you notes to friends who attended the birthday party.",
+      "completed": false
+    },
+    {
+      "title": "Organize files",
+      "description": "Sort and organize files on the computer and back them up to the cloud.",
+      "completed": false
+    },
+    {
+      "title": "Watch a documentary",
+      "description": "Watch the new documentary on wildlife conservation.",
+      "completed": false
+    },
+    {
+      "title": "Plan a date night",
+      "description": "Plan a special date night with your partner, including dinner and a movie.",
+      "completed": false
+    },
+    {
+      "title": "Learn a new recipe",
+      "description": "Try cooking a new recipe from the cookbook.",
+      "completed": false
+    },
+    {
+      "title": "Fix the leaky faucet",
+      "description": "Repair the leaky faucet in the kitchen sink.",
+      "completed": false
+    },
+    {
+      "title": "Update resume",
+      "description": "Update resume with the latest work experience and skills.",
+      "completed": false
+    },
+    {
+      "title": "Review finances",
+      "description": "Review monthly expenses and create a budget for the next month.",
+      "completed": false
+    },
+    {
+      "title": "Take car for service",
+      "description": "Take the car to the mechanic for regular maintenance and oil change.",
+      "completed": false
+    },
+    {
+      "title": "Set up a new email signature",
+      "description": "Design and set up a new professional email signature.",
+      "completed": false
+    },
+    {
+      "title": "Organize a team-building activity",
+      "description": "Plan and organize a team-building activity for the work team.",
+      "completed": false
+    },
+    {
+      "title": "Create a playlist",
+      "description": "Create a new playlist for workouts or relaxation.",
+      "completed": false
+    },
+    {
+      "title": "Declutter workspace",
+      "description": "Declutter and clean up the workspace to improve productivity.",
+      "completed": false
+    },
+    {
+      "title": "Practice a new language",
+      "description": "Spend 30 minutes practicing a new language using an app.",
+      "completed": false
+    },
+    {
+      "title": "Backup photos",
+      "description": "Backup all recent photos to the external hard drive.",
+      "completed": false
+    },
+    {
+      "title": "Attend a webinar",
+      "description": "Join the online webinar on time management strategies.",
+      "completed": false
+    },
+    {
+      "title": "Plan a surprise for a friend",
+      "description": "Plan a small surprise for a friend's birthday next week.",
+      "completed": false
+    }
+  ]
+}
